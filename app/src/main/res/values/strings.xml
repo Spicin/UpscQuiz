@@ -8,4 +8,7 @@
     <string name="option_d">D)</string>
     <string name="Show_answer">Show Answer</string>
     <string name="next_question">Next</string>
+    <string name="answer_text_appear" />
+    <string name="prev_button">PREV</string>
+    <string name="java_quiz">Java Quiz</string>
 </resources>
